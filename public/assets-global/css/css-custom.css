@@ -1,0 +1,92 @@
+.modal-backdrop {
+    z-index: 1036;
+}
+
+.select2 {
+    width: 100% !important;
+}
+
+.select2-selection {
+    font-size: 14px;
+}
+
+.select2-selection__rendered,
+.select2-selection__arrow {
+    margin-top: 5px;
+}
+    
+.btn-new-data,
+.btn-new-data:hover {
+    background: #47789e;
+    border-color: #f0f8ff00;
+}
+
+.btn-back-data,
+.btn-back-data:hover {
+    background: #ea4343;
+    border-color: #f0f8ff00;
+}
+
+.btn-simpan-data,
+.btn-simpan-data:hover {
+    background: #47789e;
+    border-color: #f0f8ff00;
+    color: #fff;
+}
+
+.btn-tambah-trx,
+.btn-tambah-trx:hover {
+    background: #2fbc54;
+    border-color: #f0f8ff00;
+    color: #fff;
+}
+
+#form-input label {
+    font-size: 14.5px !important;
+}
+
+.card-body .header-title {
+    font-size: 1.1rem;
+    margin: 0 0 2px 0;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.card-body .card-title-desc {
+    color: #575b5f;
+    margin-bottom: 24px;
+    font-size: 15px;
+    line-height: 1.3rem;
+}
+
+.card-primary.card-outline {
+    border-top: 3px solid #3b6d8c;
+}
+
+.dropify-wrapper{
+    border: 2px #CBC7C7 dashed !important;
+    background-color: #F9F9F9 !important;
+}
+
+.dropify-font-upload:before, .dropify-wrapper .dropify-message span.file-icon:before{
+    font-size: 80px;
+    color: #AEAEAE;
+}
+
+.dropify-message p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.dropify-wrapper {
+    height: 200px;
+}
+
+.custom-radio .custom-control-label {
+    padding-top: 1.6px;
+}
+
+.flatpickr-time {
+    height: 33px;
+    text-align: left;
+}
